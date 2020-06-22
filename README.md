@@ -378,11 +378,11 @@ In general, [BWA-mem](https://github.com/lh3/bwa) was the most consistent aligne
 
 ### CNV Callers
 
-**Title:** [Benchmark of tools for CNV detection from NGS panel data in a genetic diagnostics context](https://www.biorxiv.org/content/10.1101/850958v1)
+**Title:** [Evaluation of CNV detection tools for NGS panel data in genetic diagnostics](https://www.nature.com/articles/s41431-020-0675-z)
 
 **Authors:** José Marcos Moreno-Cabrera, et al.
 
-**Journal Info:** bioRxiv, November 2019.
+**Journal Info:** European Journal of Human Genetics, June 2020.
 
 **Description:** This paper compared five germline copy number variation callers against four genetic diagnostics datasets (495 samples, 231 CNVs validated by MLPA) using both default and optimized parameters.
 Sensitivity, specificity, positive predictive value, negative predictive value, F1 score, and various correlation coefficients were used as benchmarking metrics.
